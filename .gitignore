@@ -2,4 +2,5 @@
 local-test/
 test/
 _local_test/
+data/
 !.gitignore
